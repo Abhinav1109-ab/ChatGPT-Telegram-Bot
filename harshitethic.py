@@ -64,8 +64,8 @@ def start(bot, update):
         chat_log = None
         cache = None
         qcache = None
-        botname = 'Ghhhpaiddh_bot' 
-        username = 'Typo_bot' 
+        botname = 'Typo_bot' 
+        username = 'Ghhhpaiddh_bot' 
         update.message.reply_text('Hi')
         return 
     else:
