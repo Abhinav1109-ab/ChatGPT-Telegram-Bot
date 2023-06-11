@@ -29,7 +29,7 @@ tim = 1
 
 #Defaults
 user = ""
-running = False
+running = True
 cache = None
 qcache = None
 chat_log = None
